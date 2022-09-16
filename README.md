@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shubhamryaduvanshi)
 
----
+
 Languages and Tools:
 
 <code>Vanilla JS <img height='12px' src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></img></code>
