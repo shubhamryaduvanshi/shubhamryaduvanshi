@@ -8,8 +8,9 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shubhamryaduvanshi)
 
-Languages and Tools:
 ---
+Languages and Tools:
+
 <code>Vanilla JS <img height='12px' src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></img></code>
 <code>React <img height='12px' src='https://styles.redditmedia.com/t5_2su6s/styles/communityIcon_4g1uo0kd87c61.png' /></code>
 <code>Gatsby <img height='12px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxIgLnBBbg58iIwIeJSheGNJmt3Vq8plBafvJNA0KWEWPuqfh95X8dXTVDbaA68NTsMbU&usqp=CAU' /></code>
