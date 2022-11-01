@@ -28,5 +28,5 @@ Languages and Tools:
 <code>Postman <img height='12px' src='https://media.slid.es/uploads/327261/images/5065937/pm-logo-vert.png' /></code>
 
 ---
-[My Portfolio Link (old)](https://portfolio-v2-0-git-main-shubhamryaduvanshi.vercel.app/)
+[My Portfolio Link ](https://shubhamydv.netlify.app/)
 
