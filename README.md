@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on javascript projects.
 - 📫 How to reach me: yshubhamr@gmail.com
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shubhamryaduvanshi)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shubhamryaduvanshi&theme=ocean-gradient)](https://git.io/streak-stats)
 
 Languages and Tools:
 
