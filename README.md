@@ -31,6 +31,7 @@ Languages and Tools:
 ---
 [Visit Portfolio ](https://shubhamydv.netlify.app/)
 
-Joke of the day :
+Joke of the day.
+
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
