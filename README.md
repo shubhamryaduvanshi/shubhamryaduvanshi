@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shubhamryaduvanshi&theme=ocean-gradient)](https://git.io/streak-stats)
 
+<img src="https://myreadme.vercel.app/api/embed/shubhamryaduvanshi?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 Languages and Tools:
 
 <code>Vanilla JS <img height='12px' src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></img></code>
