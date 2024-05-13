@@ -29,7 +29,7 @@ Languages and Tools:
 <code>Postman <img height='12px' src='https://media.slid.es/uploads/327261/images/5065937/pm-logo-vert.png' /></code>
 
 ---
-[Visit Portfolio ](https://shubhamydv.netlify.app/)
+[Visit Portfolio ](https://www.shubhamyadav.com/)
 
 Joke of the day.
 
