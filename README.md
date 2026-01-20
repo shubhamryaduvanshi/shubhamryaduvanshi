@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on javascript projects.
-- 📫 How to reach me: yshubhamr@gmail.com & sde.shubham.yadav@gmail.com
+- 📫 How to reach me: sde.shubham.yadav@gmail.com
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shubhamryaduvanshi&theme=ocean-gradient)](https://git.io/streak-stats)
 
